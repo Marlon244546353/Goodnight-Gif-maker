@@ -1,0 +1,10 @@
+Hello thanks for downloading
+
+Please be sure to have these installed:
+
+pip install pillow imageio numpy
+
+and have fun i guess
+
+
+make any changes you want to the code, modify it change it idc, its all open source, go crazy
